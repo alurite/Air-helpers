@@ -1,0 +1,7 @@
+#Fri Nov 13 09:02:46 SAST 2020
+base.1=C\:\\Users\\27824\\Documents\\Projects\\Air_helpers\\air-helpers\\android\\app\\build\\intermediates\\transforms\\dexMerger\\debug\\0
+path.1=classes2.dex
+base.0=C\:\\Users\\27824\\Documents\\Projects\\Air_helpers\\air-helpers\\android\\app\\build\\intermediates\\transforms\\dexMerger\\debug\\0
+renamed.1=classes2.dex
+renamed.0=classes.dex
+path.0=classes.dex
